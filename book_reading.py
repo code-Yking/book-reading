@@ -7,7 +7,7 @@ from matplotlib.backends.backend_wxagg import FigureCanvasWxAgg as FigureCanvas
 from matplotlib.figure import Figure
 
 from search import *
-from menu import *
+from menu_GUI import *
 
 matplotlib.use('WXAgg')
 
